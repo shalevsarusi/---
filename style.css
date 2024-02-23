@@ -47,7 +47,9 @@
   margin: 2rem auto;
   padding: 0.5rem;
 }
-
+wrap h1{
+font-size:small;
+}
 .contact-info-container {
   display: flex;
   align-items: center;
@@ -69,3 +71,9 @@
   
 }
 
+/* .mobanner{
+  max-block-size: 40%;
+  min-width:100% ;
+
+  min-height:100% ;
+} */
